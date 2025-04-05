@@ -17,7 +17,6 @@ function shuffle(arr) {
 
 function createBoard() {
   board.innerHTML = "";
-  statuss.textContent = "Match all the pairs!";
   flipped = [];
   matched = [];
 
